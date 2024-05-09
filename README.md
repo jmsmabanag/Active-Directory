@@ -20,12 +20,12 @@ Project consists of a simple Active Directory, added one device into the AD and 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Network Diagram: <br/>
+<img src="https://i.imgur.com/qx8FWJz.png" height="80%" width="80%" alt="Network Diagram"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Adding the Machines in VirtualBox:  <br/>
+<img src="https://i.imgur.com/02KgJGU.png" height="80%" width="80%" alt="4 Machines in Virtual box"/>
 <br />
 <br />
 Enter the number of passes: <br/>
