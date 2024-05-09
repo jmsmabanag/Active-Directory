@@ -1,7 +1,7 @@
 # Active-Directory
 
 <h2>Description</h2>
-Project consists of a simple Active Directory, added one device into the AD and both deployed to a Splunk server in Virutal Box. To Monitor changes to AD and Computer, such as user additions/removals, host modifications, or domain controller (DC) events.
+Project is in Virutal Box consists of a simple Active Directory and one computer device, and both are deployed to a Splunk server. To Monitor changes to AD and Computer, such as user additions/removals, host modifications, or domain controller (DC) events.
 <br />
 
 <h2>Utilities Used</h2>
