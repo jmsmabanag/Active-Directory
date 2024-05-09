@@ -13,8 +13,8 @@ Project is in Virutal Box consists of a simple Active Directory and one computer
 
 <h2>Environments Used </h2>
 
-- <b>Windows Server 2022</b> (21H2)
-- <b>Splunk Enterprise</b> (21H2)
+- <b>Windows Server 2022</b>
+- <b>Splunk Enterprise</b>
 - <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2>
