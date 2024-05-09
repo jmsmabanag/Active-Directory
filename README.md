@@ -1,17 +1,20 @@
 # Active-Directory
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project consists of a simple Active Directory, added one device into the AD and both deployed to a Splunk server in Virutal Box. To Monitor changes to AD and Computer, such as user additions/removals, host modifications, or domain controller (DC) events.
 <br />
 
+<h2>Utilities Used</h2>
 
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Active Directory</b>
+- <b>Splunk</b>
+- <b>Sysmon</b>
+- <b>Splunk Universal Forwarder</b>
 
 <h2>Environments Used </h2>
 
+- <b>Windows Server 2022</b> (21H2)
+- <b>Splunk Enterprise</b> (21H2)
 - <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2>
